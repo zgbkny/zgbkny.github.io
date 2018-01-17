@@ -3,6 +3,31 @@
   
     
     <entry>
+      <title><![CDATA[如何完成一个艰难的目标]]></title>
+      <url>/2017/09/24/start-long-actions/</url>
+      <content type="html"><![CDATA[<p>之前试了多次培养写作的习惯，最后都半途而废。每次开始的时候都觉得挺艰难，尤其是持续几天后就会觉得特别枯燥，总是对自己做的事情信心不足。每次一停下来又会懊悔。为了避免自己再陷入这样的死循环，需要做一个突破。</p>
+<p>问题是这件事情到底要不要做，有没有意义。短期看不到写文章对我的帮助，但是我需要把以往了解的东西、学习的技术等，沉淀下来，然后不断我掌握的各种知识、理念进行总结提炼，可能还需要更新。这个是我强需求，而最好的方法是写文章。所以这个问题很清楚了，我一定要做，但到底有没有意义需要看做的质量。</p>
+<p>那就先养成这个习惯，然后慢慢提升质量。当然这样的想法太宽泛，想要真正实现需要继续细化。对写作这件事情自己现在完全没有信心，先定个小目标：持续写一周。一周之后再看结果，然后调整。</p>
+<p>对于完成一个目标，我过往的经验只有长跑和做项目。刚上大学那会儿，我跑完一圈就跑不动了，1000米体测只是刚刚及格的水平，每次快到期末就开始担心1000米体测。后来决定去改变自己的身体状态，决定长跑。尝试了很多次，每次都坚持不了几天。可能是因为长久以来都害怕体测，导致就算自个儿随便去跑跑，也会有沉重的心理负担，最后是心理负担把自己压垮了。于是我当时想了一个办法，先不管跑步的速度，先看长度。2分半没圈的速度可能只能跑3圈，那就3分没圈的速度先跑5圈，然后慢慢加，直到加到10圈。然后再训练速度。其实长度起来，心里的障碍就排除了，几个月下来，反而哪天不跑步倒是不舒服了。而且，额外的收益是冬天再也不感冒了。所以，其实没有什么难事，再难的事情都可以通过拆分一一解决。 做项目获得的经验有些不同，应该说更多一些，比如拆分解决的策略是肯定有的，其他的策略是设计时把未来系统中可能出现的异常case要全部列出来，然后制定预案处理异常case。而且后面这个策略更为重要，细节是魔鬼。</p>
+<p>这么一来我的小目标应该很容易达到了。可能影响我达成目标的异常case：时间不够、身体不适、内容不确定。</p>
+<ul>
+<li>时间不够，早起来凑。使用sleep cycle唤醒</li>
+<li>身体不适，坚持锻炼预防，一般不会有大问题，偶尔出现坚持一下</li>
+<li>内容不确定，如果实在没想法，就把当天做的事情总结一下</li>
+</ul>
+<p>开始小目标！</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 写作 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[无规矩不成方圆]]></title>
       <url>/2017/09/24/rule-start/</url>
       <content type="html"><![CDATA[<p><code>无规矩不成方圆</code></p>
@@ -192,6 +217,18 @@
   
     
     <entry>
+      <title><![CDATA[archives]]></title>
+      <url>/archives/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[about]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>程序员，操盘手，极简主义者</p>
@@ -199,20 +236,8 @@
     </entry>
     
     <entry>
-      <title><![CDATA[archives]]></title>
-      <url>/archives/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[tags]]></title>
       <url>/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
